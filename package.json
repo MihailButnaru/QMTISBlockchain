@@ -1,0 +1,35 @@
+{
+  "name": "QMITS",
+  "version": "1.0.5",
+  "description": "A blockchain command-line interface to inform the students and show the a demo of how is working.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "NODE_ENV=test ava --verbose"
+  },
+  "bin": {
+    "blockchain": "./main.js"
+  },
+  "keywords": [],
+  "author": "Mihail Butnaru",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "cli-spinners": "^1.0.0",
+    "cli-table2": "^0.2.0",
+    "colors": "^1.1.2",
+    "crypto-js": "^3.1.9-1",
+    "peer-exchange": "^2.2.0",
+    "vorpal": "^1.12.0",
+    "vorpal-log": "^1.1.0",
+    "wrtc": "0.0.62"
+  },
+  "devDependencies": {
+    "ava": "^0.21.0",
+    "sinon": "^2.3.8"
+  }
+}
