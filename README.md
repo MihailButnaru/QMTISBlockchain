@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/MihailButnaru/QMTISBlockchain/blob/master/images/blockchain.png" width="500"></a>
+  <a href=""><img src="https://github.com/MihailButnaru/QMTISBlockchain/blob/master/images/bc.png" width="500"></a>
   <br>
     QMTIS Blockchain
   <br>
