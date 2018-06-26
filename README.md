@@ -1,23 +1,23 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="" width="200"></a>
+  <a href=""><img src="https://github.com/MihailButnaru/QMTISBlockchain/blob/master/images/Blockchain.png" width="500"></a>
   <br>
-    Blockchain CLI
+    QMTIS Blockchain
   <br>
 </h1>
 
 
-<h4 align="center">A minimal blockchain command-line interface.</h4>
+<h4 align="center">A blockchain command-line interface.</h4>
 
 
 <br>
 
 
-## 🎉 Features
+## Features
 
 
-## 📦 Installation
+## Installation
 
 ####
 
